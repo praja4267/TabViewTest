@@ -14,6 +14,8 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
          print("FirstViewController controller view Did load")
         // Do any additional setup after loading the view.
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
@@ -24,6 +26,12 @@ class FirstViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         print("First view controller view will appear")
+        
+        
+        
+        
+        
+        
     }
 
     /*
